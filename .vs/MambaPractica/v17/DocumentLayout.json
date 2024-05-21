@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|c:\\users\\heydar\\desktop\\mambapractica\\mambapractica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|solutionrelative:mambapractica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|c:\\users\\heydar\\desktop\\mambapractica\\mambapractica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|solutionrelative:mambapractica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|c:\\users\\heydar\\desktop\\mambapractica\\mambapractica\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|solutionrelative:mambapractica\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|c:\\users\\heydar\\desktop\\mambapractica\\mambapractica\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|solutionrelative:mambapractica\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|c:\\users\\heydar\\desktop\\mambapractica\\mambapractica\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|solutionrelative:mambapractica\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|c:\\users\\heydar\\desktop\\mambapractica\\mambapractica\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|solutionrelative:mambapractica\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|c:\\users\\heydar\\desktop\\mambapractica\\mambapractica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|solutionrelative:mambapractica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|c:\\users\\heydar\\desktop\\mambapractica\\mambapractica\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5062A1D-AA4E-4A28-ACA5-9AAF3F9F8B59}|MambaPractica\\MambaPractica.csproj|solutionrelative:mambapractica\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MambaPractica\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MambaPractica\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAH0BAAAAAAAAAAAiwIoBAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T20:11:55.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MambaPractica\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MambaPractica\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:10:00.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Areas\\admin\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "MambaPractica\\Areas\\admin\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Areas\\admin\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "MambaPractica\\Areas\\admin\\Views\\Home\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:51:04.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MambaPractica\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MambaPractica\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwCUAAAAPAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:41:42.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MambaPractica\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MambaPractica\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAAkAAAAMAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:41:32.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MambaPractica\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MambaPractica\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:25:24.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MambaPractica\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MambaPractica\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwCsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:24:30.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Areas\\admin\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "MambaPractica\\Areas\\admin\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MambaPractica\\MambaPractica\\Areas\\admin\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "MambaPractica\\Areas\\admin\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:18:22.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
